@@ -1,0 +1,116 @@
+@charset "gb2312";
+/*------------------------------------*/
+.classroom {
+	width: 60px;
+	float: left;
+	text-align:center;
+	font-weight: bold;
+}
+.roomname {
+	float: left;
+	height: 20px;
+	width: 58px;
+	background-color:#6F0;
+	margin-bottom:1px;
+}
+/*------------------------------------*/
+.classinfo {
+	float: left;
+	width: 840px;
+}
+.week{
+	width:118px;
+	height: 20px;
+	float:left;
+	background:#FCF;
+	font-weight: bold;
+	margin-bottom:1px;
+}
+.jieshu1{
+	background-color:#6C9;
+	float:left;
+}
+.jieshu2{
+	background-color:#C9F;
+	float:left;
+}
+.classinfo0 {
+	background-color: #999;
+	float: left;
+	height: 20px;
+	width: 22px;
+	margin-bottom:1px;
+}
+.classinfo1 {
+	background-color: #066;
+	float: left;
+	height: 20px;
+	width: 22px;
+	margin-bottom:1px;
+}
+.classinfo2 {
+	float: left;
+	height: 20px;
+	width: 22px;
+}
+/*------------------------------------*/
+.clear_colum{
+	width:2px;
+	height:20px;
+	float:left;
+	background:#CCC;
+}
+
+.super_build_name {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #06F;
+	background-color: #CCC;
+	text-align: center;
+	float: left;
+	height: 26px;
+	width: 159px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	margin-right: 1px;
+}
+.super_build_name a:link{
+	color:#06F;
+	text-decoration:none;
+}
+.super_build_name a:visted{
+	color:#06F;
+	text-decoration:none;
+}
+.super_build_name a:hover{
+	color:#f16673;
+}
+.build_info {
+	font-family: "ºÚÌå";
+	width: 960px;
+}
+.build_info .build_name {
+	font-size: 24px;
+	font-weight: bold;
+	color: #666;
+	text-align: center;
+	width: 960px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+.build_info .otherinfo {
+	text-align: right;
+	padding-right: 5px;
+}
+.classroominfo1{
+	display:block;
+	position:relative;
+	top:-40px;
+	left:40px;
+	width:320px;
+	background:#fff;
+}
+.classroominfo2{
+	white-space:nowrap;
+}

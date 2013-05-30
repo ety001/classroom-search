@@ -1,0 +1,1587 @@
+<?xml version="1.0" encoding="gb2312"?>
+<build>
+<room>
+<roomname>101D</roomname>
+<roominfo>教室类型:公共教室,多媒体,课桌,126个座位</roominfo>
+<course name = 'A1'>
+<id>1</id>
+<value>1</value>
+</course>
+<course name = 'A2'>
+<id>2</id>
+<value>1</value>
+</course>
+<course name = 'A3'>
+<id>3</id>
+<value>1</value>
+</course>
+<course name = 'A4'>
+<id>4</id>
+<value>1</value>
+</course>
+<course name = 'A5'>
+<id>5</id>
+<value>1</value>
+</course>
+<course name = 'B1'>
+<id>6</id>
+<value>1</value>
+</course>
+<course name = 'B2'>
+<id>7</id>
+<value>1</value>
+</course>
+<course name = 'B3'>
+<id>8</id>
+<value>0</value>
+</course>
+<course name = 'B4'>
+<id>9</id>
+<value>0</value>
+</course>
+<course name = 'B5'>
+<id>10</id>
+<value>1</value>
+</course>
+<course name = 'C1'>
+<id>11</id>
+<value>1</value>
+</course>
+<course name = 'C2'>
+<id>12</id>
+<value>1</value>
+</course>
+<course name = 'C3'>
+<id>13</id>
+<value>1</value>
+</course>
+<course name = 'C4'>
+<id>14</id>
+<value>0</value>
+</course>
+<course name = 'C5'>
+<id>15</id>
+<value>1</value>
+</course>
+<course name = 'D1'>
+<id>16</id>
+<value>1</value>
+</course>
+<course name = 'D2'>
+<id>17</id>
+<value>1</value>
+</course>
+<course name = 'D3'>
+<id>18</id>
+<value>0</value>
+</course>
+<course name = 'D4'>
+<id>19</id>
+<value>1</value>
+</course>
+<course name = 'D5'>
+<id>20</id>
+<value>1</value>
+</course>
+<course name = 'E1'>
+<id>21</id>
+<value>1</value>
+</course>
+<course name = 'E2'>
+<id>22</id>
+<value>1</value>
+</course>
+<course name = 'E3'>
+<id>23</id>
+<value>1</value>
+</course>
+<course name = 'E4'>
+<id>24</id>
+<value>0</value>
+</course>
+<course name = 'E5'>
+<id>25</id>
+<value>0</value>
+</course>
+<course name = 'F1'>
+<id>26</id>
+<value>0</value>
+</course>
+<course name = 'F2'>
+<id>27</id>
+<value>0</value>
+</course>
+<course name = 'F3'>
+<id>28</id>
+<value>0</value>
+</course>
+<course name = 'F4'>
+<id>29</id>
+<value>0</value>
+</course>
+<course name = 'F5'>
+<id>30</id>
+<value>0</value>
+</course>
+<course name = 'G1'>
+<id>31</id>
+<value>1</value>
+</course>
+<course name = 'G2'>
+<id>32</id>
+<value>1</value>
+</course>
+<course name = 'G3'>
+<id>33</id>
+<value>1</value>
+</course>
+<course name = 'G4'>
+<id>34</id>
+<value>1</value>
+</course>
+<course name = 'G5'>
+<id>35</id>
+<value>0</value>
+</course>
+</room>
+<room>
+<roomname>102D</roomname>
+<roominfo>教室类型:公共教室,多媒体,课桌,176个座位</roominfo>
+<course name = 'A1'>
+<id>1</id>
+<value>1</value>
+</course>
+<course name = 'A2'>
+<id>2</id>
+<value>0</value>
+</course>
+<course name = 'A3'>
+<id>3</id>
+<value>0</value>
+</course>
+<course name = 'A4'>
+<id>4</id>
+<value>1</value>
+</course>
+<course name = 'A5'>
+<id>5</id>
+<value>1</value>
+</course>
+<course name = 'B1'>
+<id>6</id>
+<value>1</value>
+</course>
+<course name = 'B2'>
+<id>7</id>
+<value>1</value>
+</course>
+<course name = 'B3'>
+<id>8</id>
+<value>0</value>
+</course>
+<course name = 'B4'>
+<id>9</id>
+<value>0</value>
+</course>
+<course name = 'B5'>
+<id>10</id>
+<value>1</value>
+</course>
+<course name = 'C1'>
+<id>11</id>
+<value>0</value>
+</course>
+<course name = 'C2'>
+<id>12</id>
+<value>1</value>
+</course>
+<course name = 'C3'>
+<id>13</id>
+<value>1</value>
+</course>
+<course name = 'C4'>
+<id>14</id>
+<value>1</value>
+</course>
+<course name = 'C5'>
+<id>15</id>
+<value>0</value>
+</course>
+<course name = 'D1'>
+<id>16</id>
+<value>1</value>
+</course>
+<course name = 'D2'>
+<id>17</id>
+<value>1</value>
+</course>
+<course name = 'D3'>
+<id>18</id>
+<value>1</value>
+</course>
+<course name = 'D4'>
+<id>19</id>
+<value>0</value>
+</course>
+<course name = 'D5'>
+<id>20</id>
+<value>1</value>
+</course>
+<course name = 'E1'>
+<id>21</id>
+<value>1</value>
+</course>
+<course name = 'E2'>
+<id>22</id>
+<value>1</value>
+</course>
+<course name = 'E3'>
+<id>23</id>
+<value>1</value>
+</course>
+<course name = 'E4'>
+<id>24</id>
+<value>0</value>
+</course>
+<course name = 'E5'>
+<id>25</id>
+<value>0</value>
+</course>
+<course name = 'F1'>
+<id>26</id>
+<value>0</value>
+</course>
+<course name = 'F2'>
+<id>27</id>
+<value>0</value>
+</course>
+<course name = 'F3'>
+<id>28</id>
+<value>0</value>
+</course>
+<course name = 'F4'>
+<id>29</id>
+<value>0</value>
+</course>
+<course name = 'F5'>
+<id>30</id>
+<value>0</value>
+</course>
+<course name = 'G1'>
+<id>31</id>
+<value>1</value>
+</course>
+<course name = 'G2'>
+<id>32</id>
+<value>1</value>
+</course>
+<course name = 'G3'>
+<id>33</id>
+<value>1</value>
+</course>
+<course name = 'G4'>
+<id>34</id>
+<value>1</value>
+</course>
+<course name = 'G5'>
+<id>35</id>
+<value>1</value>
+</course>
+</room>
+<room>
+<roomname>103D</roomname>
+<roominfo>教室类型:公共教室,多媒体,课桌,126个座位</roominfo>
+<course name = 'A1'>
+<id>1</id>
+<value>1</value>
+</course>
+<course name = 'A2'>
+<id>2</id>
+<value>1</value>
+</course>
+<course name = 'A3'>
+<id>3</id>
+<value>1</value>
+</course>
+<course name = 'A4'>
+<id>4</id>
+<value>1</value>
+</course>
+<course name = 'A5'>
+<id>5</id>
+<value>0</value>
+</course>
+<course name = 'B1'>
+<id>6</id>
+<value>1</value>
+</course>
+<course name = 'B2'>
+<id>7</id>
+<value>1</value>
+</course>
+<course name = 'B3'>
+<id>8</id>
+<value>0</value>
+</course>
+<course name = 'B4'>
+<id>9</id>
+<value>1</value>
+</course>
+<course name = 'B5'>
+<id>10</id>
+<value>1</value>
+</course>
+<course name = 'C1'>
+<id>11</id>
+<value>1</value>
+</course>
+<course name = 'C2'>
+<id>12</id>
+<value>1</value>
+</course>
+<course name = 'C3'>
+<id>13</id>
+<value>1</value>
+</course>
+<course name = 'C4'>
+<id>14</id>
+<value>1</value>
+</course>
+<course name = 'C5'>
+<id>15</id>
+<value>1</value>
+</course>
+<course name = 'D1'>
+<id>16</id>
+<value>1</value>
+</course>
+<course name = 'D2'>
+<id>17</id>
+<value>1</value>
+</course>
+<course name = 'D3'>
+<id>18</id>
+<value>1</value>
+</course>
+<course name = 'D4'>
+<id>19</id>
+<value>1</value>
+</course>
+<course name = 'D5'>
+<id>20</id>
+<value>1</value>
+</course>
+<course name = 'E1'>
+<id>21</id>
+<value>1</value>
+</course>
+<course name = 'E2'>
+<id>22</id>
+<value>1</value>
+</course>
+<course name = 'E3'>
+<id>23</id>
+<value>1</value>
+</course>
+<course name = 'E4'>
+<id>24</id>
+<value>1</value>
+</course>
+<course name = 'E5'>
+<id>25</id>
+<value>1</value>
+</course>
+<course name = 'F1'>
+<id>26</id>
+<value>1</value>
+</course>
+<course name = 'F2'>
+<id>27</id>
+<value>1</value>
+</course>
+<course name = 'F3'>
+<id>28</id>
+<value>0</value>
+</course>
+<course name = 'F4'>
+<id>29</id>
+<value>0</value>
+</course>
+<course name = 'F5'>
+<id>30</id>
+<value>0</value>
+</course>
+<course name = 'G1'>
+<id>31</id>
+<value>1</value>
+</course>
+<course name = 'G2'>
+<id>32</id>
+<value>1</value>
+</course>
+<course name = 'G3'>
+<id>33</id>
+<value>1</value>
+</course>
+<course name = 'G4'>
+<id>34</id>
+<value>1</value>
+</course>
+<course name = 'G5'>
+<id>35</id>
+<value>0</value>
+</course>
+</room>
+<room>
+<roomname>104D</roomname>
+<roominfo>教室类型:公共教室,多媒体,课桌,234个座位</roominfo>
+<course name = 'A1'>
+<id>1</id>
+<value>1</value>
+</course>
+<course name = 'A2'>
+<id>2</id>
+<value>1</value>
+</course>
+<course name = 'A3'>
+<id>3</id>
+<value>1</value>
+</course>
+<course name = 'A4'>
+<id>4</id>
+<value>1</value>
+</course>
+<course name = 'A5'>
+<id>5</id>
+<value>1</value>
+</course>
+<course name = 'B1'>
+<id>6</id>
+<value>1</value>
+</course>
+<course name = 'B2'>
+<id>7</id>
+<value>1</value>
+</course>
+<course name = 'B3'>
+<id>8</id>
+<value>0</value>
+</course>
+<course name = 'B4'>
+<id>9</id>
+<value>0</value>
+</course>
+<course name = 'B5'>
+<id>10</id>
+<value>1</value>
+</course>
+<course name = 'C1'>
+<id>11</id>
+<value>1</value>
+</course>
+<course name = 'C2'>
+<id>12</id>
+<value>1</value>
+</course>
+<course name = 'C3'>
+<id>13</id>
+<value>1</value>
+</course>
+<course name = 'C4'>
+<id>14</id>
+<value>0</value>
+</course>
+<course name = 'C5'>
+<id>15</id>
+<value>1</value>
+</course>
+<course name = 'D1'>
+<id>16</id>
+<value>1</value>
+</course>
+<course name = 'D2'>
+<id>17</id>
+<value>1</value>
+</course>
+<course name = 'D3'>
+<id>18</id>
+<value>1</value>
+</course>
+<course name = 'D4'>
+<id>19</id>
+<value>0</value>
+</course>
+<course name = 'D5'>
+<id>20</id>
+<value>1</value>
+</course>
+<course name = 'E1'>
+<id>21</id>
+<value>1</value>
+</course>
+<course name = 'E2'>
+<id>22</id>
+<value>1</value>
+</course>
+<course name = 'E3'>
+<id>23</id>
+<value>1</value>
+</course>
+<course name = 'E4'>
+<id>24</id>
+<value>1</value>
+</course>
+<course name = 'E5'>
+<id>25</id>
+<value>0</value>
+</course>
+<course name = 'F1'>
+<id>26</id>
+<value>0</value>
+</course>
+<course name = 'F2'>
+<id>27</id>
+<value>0</value>
+</course>
+<course name = 'F3'>
+<id>28</id>
+<value>0</value>
+</course>
+<course name = 'F4'>
+<id>29</id>
+<value>0</value>
+</course>
+<course name = 'F5'>
+<id>30</id>
+<value>0</value>
+</course>
+<course name = 'G1'>
+<id>31</id>
+<value>0</value>
+</course>
+<course name = 'G2'>
+<id>32</id>
+<value>0</value>
+</course>
+<course name = 'G3'>
+<id>33</id>
+<value>0</value>
+</course>
+<course name = 'G4'>
+<id>34</id>
+<value>0</value>
+</course>
+<course name = 'G5'>
+<id>35</id>
+<value>0</value>
+</course>
+</room>
+<room>
+<roomname>201D</roomname>
+<roominfo>教室类型:公共教室,多媒体,课桌,126个座位</roominfo>
+<course name = 'A1'>
+<id>1</id>
+<value>1</value>
+</course>
+<course name = 'A2'>
+<id>2</id>
+<value>1</value>
+</course>
+<course name = 'A3'>
+<id>3</id>
+<value>1</value>
+</course>
+<course name = 'A4'>
+<id>4</id>
+<value>1</value>
+</course>
+<course name = 'A5'>
+<id>5</id>
+<value>1</value>
+</course>
+<course name = 'B1'>
+<id>6</id>
+<value>1</value>
+</course>
+<course name = 'B2'>
+<id>7</id>
+<value>1</value>
+</course>
+<course name = 'B3'>
+<id>8</id>
+<value>0</value>
+</course>
+<course name = 'B4'>
+<id>9</id>
+<value>0</value>
+</course>
+<course name = 'B5'>
+<id>10</id>
+<value>1</value>
+</course>
+<course name = 'C1'>
+<id>11</id>
+<value>1</value>
+</course>
+<course name = 'C2'>
+<id>12</id>
+<value>1</value>
+</course>
+<course name = 'C3'>
+<id>13</id>
+<value>1</value>
+</course>
+<course name = 'C4'>
+<id>14</id>
+<value>1</value>
+</course>
+<course name = 'C5'>
+<id>15</id>
+<value>1</value>
+</course>
+<course name = 'D1'>
+<id>16</id>
+<value>1</value>
+</course>
+<course name = 'D2'>
+<id>17</id>
+<value>1</value>
+</course>
+<course name = 'D3'>
+<id>18</id>
+<value>1</value>
+</course>
+<course name = 'D4'>
+<id>19</id>
+<value>1</value>
+</course>
+<course name = 'D5'>
+<id>20</id>
+<value>1</value>
+</course>
+<course name = 'E1'>
+<id>21</id>
+<value>1</value>
+</course>
+<course name = 'E2'>
+<id>22</id>
+<value>1</value>
+</course>
+<course name = 'E3'>
+<id>23</id>
+<value>1</value>
+</course>
+<course name = 'E4'>
+<id>24</id>
+<value>1</value>
+</course>
+<course name = 'E5'>
+<id>25</id>
+<value>0</value>
+</course>
+<course name = 'F1'>
+<id>26</id>
+<value>1</value>
+</course>
+<course name = 'F2'>
+<id>27</id>
+<value>1</value>
+</course>
+<course name = 'F3'>
+<id>28</id>
+<value>1</value>
+</course>
+<course name = 'F4'>
+<id>29</id>
+<value>0</value>
+</course>
+<course name = 'F5'>
+<id>30</id>
+<value>0</value>
+</course>
+<course name = 'G1'>
+<id>31</id>
+<value>1</value>
+</course>
+<course name = 'G2'>
+<id>32</id>
+<value>0</value>
+</course>
+<course name = 'G3'>
+<id>33</id>
+<value>1</value>
+</course>
+<course name = 'G4'>
+<id>34</id>
+<value>0</value>
+</course>
+<course name = 'G5'>
+<id>35</id>
+<value>0</value>
+</course>
+</room>
+<room>
+<roomname>202D</roomname>
+<roominfo>教室类型:公共教室,多媒体,课桌,176个座位</roominfo>
+<course name = 'A1'>
+<id>1</id>
+<value>1</value>
+</course>
+<course name = 'A2'>
+<id>2</id>
+<value>1</value>
+</course>
+<course name = 'A3'>
+<id>3</id>
+<value>0</value>
+</course>
+<course name = 'A4'>
+<id>4</id>
+<value>1</value>
+</course>
+<course name = 'A5'>
+<id>5</id>
+<value>1</value>
+</course>
+<course name = 'B1'>
+<id>6</id>
+<value>1</value>
+</course>
+<course name = 'B2'>
+<id>7</id>
+<value>1</value>
+</course>
+<course name = 'B3'>
+<id>8</id>
+<value>0</value>
+</course>
+<course name = 'B4'>
+<id>9</id>
+<value>1</value>
+</course>
+<course name = 'B5'>
+<id>10</id>
+<value>1</value>
+</course>
+<course name = 'C1'>
+<id>11</id>
+<value>1</value>
+</course>
+<course name = 'C2'>
+<id>12</id>
+<value>1</value>
+</course>
+<course name = 'C3'>
+<id>13</id>
+<value>1</value>
+</course>
+<course name = 'C4'>
+<id>14</id>
+<value>1</value>
+</course>
+<course name = 'C5'>
+<id>15</id>
+<value>0</value>
+</course>
+<course name = 'D1'>
+<id>16</id>
+<value>1</value>
+</course>
+<course name = 'D2'>
+<id>17</id>
+<value>1</value>
+</course>
+<course name = 'D3'>
+<id>18</id>
+<value>1</value>
+</course>
+<course name = 'D4'>
+<id>19</id>
+<value>0</value>
+</course>
+<course name = 'D5'>
+<id>20</id>
+<value>1</value>
+</course>
+<course name = 'E1'>
+<id>21</id>
+<value>1</value>
+</course>
+<course name = 'E2'>
+<id>22</id>
+<value>1</value>
+</course>
+<course name = 'E3'>
+<id>23</id>
+<value>1</value>
+</course>
+<course name = 'E4'>
+<id>24</id>
+<value>0</value>
+</course>
+<course name = 'E5'>
+<id>25</id>
+<value>0</value>
+</course>
+<course name = 'F1'>
+<id>26</id>
+<value>0</value>
+</course>
+<course name = 'F2'>
+<id>27</id>
+<value>1</value>
+</course>
+<course name = 'F3'>
+<id>28</id>
+<value>0</value>
+</course>
+<course name = 'F4'>
+<id>29</id>
+<value>0</value>
+</course>
+<course name = 'F5'>
+<id>30</id>
+<value>0</value>
+</course>
+<course name = 'G1'>
+<id>31</id>
+<value>0</value>
+</course>
+<course name = 'G2'>
+<id>32</id>
+<value>1</value>
+</course>
+<course name = 'G3'>
+<id>33</id>
+<value>0</value>
+</course>
+<course name = 'G4'>
+<id>34</id>
+<value>0</value>
+</course>
+<course name = 'G5'>
+<id>35</id>
+<value>0</value>
+</course>
+</room>
+<room>
+<roomname>203D</roomname>
+<roominfo>教室类型:公共教室,多媒体,课桌,126个座位</roominfo>
+<course name = 'A1'>
+<id>1</id>
+<value>1</value>
+</course>
+<course name = 'A2'>
+<id>2</id>
+<value>1</value>
+</course>
+<course name = 'A3'>
+<id>3</id>
+<value>1</value>
+</course>
+<course name = 'A4'>
+<id>4</id>
+<value>1</value>
+</course>
+<course name = 'A5'>
+<id>5</id>
+<value>1</value>
+</course>
+<course name = 'B1'>
+<id>6</id>
+<value>1</value>
+</course>
+<course name = 'B2'>
+<id>7</id>
+<value>1</value>
+</course>
+<course name = 'B3'>
+<id>8</id>
+<value>0</value>
+</course>
+<course name = 'B4'>
+<id>9</id>
+<value>0</value>
+</course>
+<course name = 'B5'>
+<id>10</id>
+<value>1</value>
+</course>
+<course name = 'C1'>
+<id>11</id>
+<value>1</value>
+</course>
+<course name = 'C2'>
+<id>12</id>
+<value>1</value>
+</course>
+<course name = 'C3'>
+<id>13</id>
+<value>1</value>
+</course>
+<course name = 'C4'>
+<id>14</id>
+<value>1</value>
+</course>
+<course name = 'C5'>
+<id>15</id>
+<value>1</value>
+</course>
+<course name = 'D1'>
+<id>16</id>
+<value>1</value>
+</course>
+<course name = 'D2'>
+<id>17</id>
+<value>0</value>
+</course>
+<course name = 'D3'>
+<id>18</id>
+<value>1</value>
+</course>
+<course name = 'D4'>
+<id>19</id>
+<value>1</value>
+</course>
+<course name = 'D5'>
+<id>20</id>
+<value>1</value>
+</course>
+<course name = 'E1'>
+<id>21</id>
+<value>1</value>
+</course>
+<course name = 'E2'>
+<id>22</id>
+<value>1</value>
+</course>
+<course name = 'E3'>
+<id>23</id>
+<value>1</value>
+</course>
+<course name = 'E4'>
+<id>24</id>
+<value>1</value>
+</course>
+<course name = 'E5'>
+<id>25</id>
+<value>1</value>
+</course>
+<course name = 'F1'>
+<id>26</id>
+<value>0</value>
+</course>
+<course name = 'F2'>
+<id>27</id>
+<value>0</value>
+</course>
+<course name = 'F3'>
+<id>28</id>
+<value>0</value>
+</course>
+<course name = 'F4'>
+<id>29</id>
+<value>0</value>
+</course>
+<course name = 'F5'>
+<id>30</id>
+<value>0</value>
+</course>
+<course name = 'G1'>
+<id>31</id>
+<value>0</value>
+</course>
+<course name = 'G2'>
+<id>32</id>
+<value>1</value>
+</course>
+<course name = 'G3'>
+<id>33</id>
+<value>1</value>
+</course>
+<course name = 'G4'>
+<id>34</id>
+<value>0</value>
+</course>
+<course name = 'G5'>
+<id>35</id>
+<value>0</value>
+</course>
+</room>
+<room>
+<roomname>204D</roomname>
+<roominfo>教室类型:公共教室,多媒体,课桌,234个座位</roominfo>
+<course name = 'A1'>
+<id>1</id>
+<value>1</value>
+</course>
+<course name = 'A2'>
+<id>2</id>
+<value>1</value>
+</course>
+<course name = 'A3'>
+<id>3</id>
+<value>1</value>
+</course>
+<course name = 'A4'>
+<id>4</id>
+<value>0</value>
+</course>
+<course name = 'A5'>
+<id>5</id>
+<value>1</value>
+</course>
+<course name = 'B1'>
+<id>6</id>
+<value>1</value>
+</course>
+<course name = 'B2'>
+<id>7</id>
+<value>1</value>
+</course>
+<course name = 'B3'>
+<id>8</id>
+<value>0</value>
+</course>
+<course name = 'B4'>
+<id>9</id>
+<value>0</value>
+</course>
+<course name = 'B5'>
+<id>10</id>
+<value>1</value>
+</course>
+<course name = 'C1'>
+<id>11</id>
+<value>1</value>
+</course>
+<course name = 'C2'>
+<id>12</id>
+<value>1</value>
+</course>
+<course name = 'C3'>
+<id>13</id>
+<value>1</value>
+</course>
+<course name = 'C4'>
+<id>14</id>
+<value>0</value>
+</course>
+<course name = 'C5'>
+<id>15</id>
+<value>1</value>
+</course>
+<course name = 'D1'>
+<id>16</id>
+<value>0</value>
+</course>
+<course name = 'D2'>
+<id>17</id>
+<value>0</value>
+</course>
+<course name = 'D3'>
+<id>18</id>
+<value>0</value>
+</course>
+<course name = 'D4'>
+<id>19</id>
+<value>0</value>
+</course>
+<course name = 'D5'>
+<id>20</id>
+<value>1</value>
+</course>
+<course name = 'E1'>
+<id>21</id>
+<value>1</value>
+</course>
+<course name = 'E2'>
+<id>22</id>
+<value>1</value>
+</course>
+<course name = 'E3'>
+<id>23</id>
+<value>1</value>
+</course>
+<course name = 'E4'>
+<id>24</id>
+<value>0</value>
+</course>
+<course name = 'E5'>
+<id>25</id>
+<value>0</value>
+</course>
+<course name = 'F1'>
+<id>26</id>
+<value>0</value>
+</course>
+<course name = 'F2'>
+<id>27</id>
+<value>0</value>
+</course>
+<course name = 'F3'>
+<id>28</id>
+<value>0</value>
+</course>
+<course name = 'F4'>
+<id>29</id>
+<value>0</value>
+</course>
+<course name = 'F5'>
+<id>30</id>
+<value>0</value>
+</course>
+<course name = 'G1'>
+<id>31</id>
+<value>0</value>
+</course>
+<course name = 'G2'>
+<id>32</id>
+<value>0</value>
+</course>
+<course name = 'G3'>
+<id>33</id>
+<value>0</value>
+</course>
+<course name = 'G4'>
+<id>34</id>
+<value>0</value>
+</course>
+<course name = 'G5'>
+<id>35</id>
+<value>0</value>
+</course>
+</room>
+<room>
+<roomname>301D</roomname>
+<roominfo>教室类型:公共教室,多媒体,课桌,126个座位</roominfo>
+<course name = 'A1'>
+<id>1</id>
+<value>1</value>
+</course>
+<course name = 'A2'>
+<id>2</id>
+<value>1</value>
+</course>
+<course name = 'A3'>
+<id>3</id>
+<value>1</value>
+</course>
+<course name = 'A4'>
+<id>4</id>
+<value>1</value>
+</course>
+<course name = 'A5'>
+<id>5</id>
+<value>1</value>
+</course>
+<course name = 'B1'>
+<id>6</id>
+<value>1</value>
+</course>
+<course name = 'B2'>
+<id>7</id>
+<value>1</value>
+</course>
+<course name = 'B3'>
+<id>8</id>
+<value>0</value>
+</course>
+<course name = 'B4'>
+<id>9</id>
+<value>0</value>
+</course>
+<course name = 'B5'>
+<id>10</id>
+<value>1</value>
+</course>
+<course name = 'C1'>
+<id>11</id>
+<value>1</value>
+</course>
+<course name = 'C2'>
+<id>12</id>
+<value>1</value>
+</course>
+<course name = 'C3'>
+<id>13</id>
+<value>1</value>
+</course>
+<course name = 'C4'>
+<id>14</id>
+<value>1</value>
+</course>
+<course name = 'C5'>
+<id>15</id>
+<value>0</value>
+</course>
+<course name = 'D1'>
+<id>16</id>
+<value>1</value>
+</course>
+<course name = 'D2'>
+<id>17</id>
+<value>0</value>
+</course>
+<course name = 'D3'>
+<id>18</id>
+<value>1</value>
+</course>
+<course name = 'D4'>
+<id>19</id>
+<value>1</value>
+</course>
+<course name = 'D5'>
+<id>20</id>
+<value>1</value>
+</course>
+<course name = 'E1'>
+<id>21</id>
+<value>1</value>
+</course>
+<course name = 'E2'>
+<id>22</id>
+<value>1</value>
+</course>
+<course name = 'E3'>
+<id>23</id>
+<value>1</value>
+</course>
+<course name = 'E4'>
+<id>24</id>
+<value>1</value>
+</course>
+<course name = 'E5'>
+<id>25</id>
+<value>0</value>
+</course>
+<course name = 'F1'>
+<id>26</id>
+<value>1</value>
+</course>
+<course name = 'F2'>
+<id>27</id>
+<value>1</value>
+</course>
+<course name = 'F3'>
+<id>28</id>
+<value>1</value>
+</course>
+<course name = 'F4'>
+<id>29</id>
+<value>1</value>
+</course>
+<course name = 'F5'>
+<id>30</id>
+<value>0</value>
+</course>
+<course name = 'G1'>
+<id>31</id>
+<value>1</value>
+</course>
+<course name = 'G2'>
+<id>32</id>
+<value>1</value>
+</course>
+<course name = 'G3'>
+<id>33</id>
+<value>1</value>
+</course>
+<course name = 'G4'>
+<id>34</id>
+<value>1</value>
+</course>
+<course name = 'G5'>
+<id>35</id>
+<value>0</value>
+</course>
+</room>
+<room>
+<roomname>302D</roomname>
+<roominfo>教室类型:公共教室,多媒体,课桌,176个座位</roominfo>
+<course name = 'A1'>
+<id>1</id>
+<value>1</value>
+</course>
+<course name = 'A2'>
+<id>2</id>
+<value>1</value>
+</course>
+<course name = 'A3'>
+<id>3</id>
+<value>1</value>
+</course>
+<course name = 'A4'>
+<id>4</id>
+<value>0</value>
+</course>
+<course name = 'A5'>
+<id>5</id>
+<value>1</value>
+</course>
+<course name = 'B1'>
+<id>6</id>
+<value>1</value>
+</course>
+<course name = 'B2'>
+<id>7</id>
+<value>1</value>
+</course>
+<course name = 'B3'>
+<id>8</id>
+<value>0</value>
+</course>
+<course name = 'B4'>
+<id>9</id>
+<value>1</value>
+</course>
+<course name = 'B5'>
+<id>10</id>
+<value>1</value>
+</course>
+<course name = 'C1'>
+<id>11</id>
+<value>1</value>
+</course>
+<course name = 'C2'>
+<id>12</id>
+<value>1</value>
+</course>
+<course name = 'C3'>
+<id>13</id>
+<value>1</value>
+</course>
+<course name = 'C4'>
+<id>14</id>
+<value>1</value>
+</course>
+<course name = 'C5'>
+<id>15</id>
+<value>0</value>
+</course>
+<course name = 'D1'>
+<id>16</id>
+<value>1</value>
+</course>
+<course name = 'D2'>
+<id>17</id>
+<value>0</value>
+</course>
+<course name = 'D3'>
+<id>18</id>
+<value>1</value>
+</course>
+<course name = 'D4'>
+<id>19</id>
+<value>1</value>
+</course>
+<course name = 'D5'>
+<id>20</id>
+<value>1</value>
+</course>
+<course name = 'E1'>
+<id>21</id>
+<value>1</value>
+</course>
+<course name = 'E2'>
+<id>22</id>
+<value>1</value>
+</course>
+<course name = 'E3'>
+<id>23</id>
+<value>1</value>
+</course>
+<course name = 'E4'>
+<id>24</id>
+<value>0</value>
+</course>
+<course name = 'E5'>
+<id>25</id>
+<value>0</value>
+</course>
+<course name = 'F1'>
+<id>26</id>
+<value>0</value>
+</course>
+<course name = 'F2'>
+<id>27</id>
+<value>0</value>
+</course>
+<course name = 'F3'>
+<id>28</id>
+<value>0</value>
+</course>
+<course name = 'F4'>
+<id>29</id>
+<value>0</value>
+</course>
+<course name = 'F5'>
+<id>30</id>
+<value>0</value>
+</course>
+<course name = 'G1'>
+<id>31</id>
+<value>0</value>
+</course>
+<course name = 'G2'>
+<id>32</id>
+<value>0</value>
+</course>
+<course name = 'G3'>
+<id>33</id>
+<value>0</value>
+</course>
+<course name = 'G4'>
+<id>34</id>
+<value>0</value>
+</course>
+<course name = 'G5'>
+<id>35</id>
+<value>0</value>
+</course>
+</room>
+<room>
+<roomname>303D</roomname>
+<roominfo>教室类型:公共教室,多媒体,课桌,126个座位</roominfo>
+<course name = 'A1'>
+<id>1</id>
+<value>1</value>
+</course>
+<course name = 'A2'>
+<id>2</id>
+<value>1</value>
+</course>
+<course name = 'A3'>
+<id>3</id>
+<value>1</value>
+</course>
+<course name = 'A4'>
+<id>4</id>
+<value>1</value>
+</course>
+<course name = 'A5'>
+<id>5</id>
+<value>1</value>
+</course>
+<course name = 'B1'>
+<id>6</id>
+<value>1</value>
+</course>
+<course name = 'B2'>
+<id>7</id>
+<value>1</value>
+</course>
+<course name = 'B3'>
+<id>8</id>
+<value>0</value>
+</course>
+<course name = 'B4'>
+<id>9</id>
+<value>0</value>
+</course>
+<course name = 'B5'>
+<id>10</id>
+<value>1</value>
+</course>
+<course name = 'C1'>
+<id>11</id>
+<value>1</value>
+</course>
+<course name = 'C2'>
+<id>12</id>
+<value>1</value>
+</course>
+<course name = 'C3'>
+<id>13</id>
+<value>1</value>
+</course>
+<course name = 'C4'>
+<id>14</id>
+<value>1</value>
+</course>
+<course name = 'C5'>
+<id>15</id>
+<value>0</value>
+</course>
+<course name = 'D1'>
+<id>16</id>
+<value>1</value>
+</course>
+<course name = 'D2'>
+<id>17</id>
+<value>1</value>
+</course>
+<course name = 'D3'>
+<id>18</id>
+<value>1</value>
+</course>
+<course name = 'D4'>
+<id>19</id>
+<value>1</value>
+</course>
+<course name = 'D5'>
+<id>20</id>
+<value>1</value>
+</course>
+<course name = 'E1'>
+<id>21</id>
+<value>1</value>
+</course>
+<course name = 'E2'>
+<id>22</id>
+<value>1</value>
+</course>
+<course name = 'E3'>
+<id>23</id>
+<value>0</value>
+</course>
+<course name = 'E4'>
+<id>24</id>
+<value>1</value>
+</course>
+<course name = 'E5'>
+<id>25</id>
+<value>1</value>
+</course>
+<course name = 'F1'>
+<id>26</id>
+<value>0</value>
+</course>
+<course name = 'F2'>
+<id>27</id>
+<value>0</value>
+</course>
+<course name = 'F3'>
+<id>28</id>
+<value>0</value>
+</course>
+<course name = 'F4'>
+<id>29</id>
+<value>0</value>
+</course>
+<course name = 'F5'>
+<id>30</id>
+<value>0</value>
+</course>
+<course name = 'G1'>
+<id>31</id>
+<value>0</value>
+</course>
+<course name = 'G2'>
+<id>32</id>
+<value>0</value>
+</course>
+<course name = 'G3'>
+<id>33</id>
+<value>0</value>
+</course>
+<course name = 'G4'>
+<id>34</id>
+<value>0</value>
+</course>
+<course name = 'G5'>
+<id>35</id>
+<value>0</value>
+</course>
+</room>
+</build>
