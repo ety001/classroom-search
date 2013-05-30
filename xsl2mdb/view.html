@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GB2312" />
+<title>自习室查询平台数据简易查看器	制作：ETY001	版权归鲁大学生网所有</title>
+<style type="text/css">
+<!--
+.top {
+	font-family: "黑体";
+	font-size: 30px;
+	font-style: normal;
+	font-weight: bold;
+	color: #C33;
+	margin: 0px;
+	width: 960px;
+	text-align: center;
+	padding-top: 15px;
+}
+.clear {
+	height: 20px;
+	width: 960px;
+}
+.content {
+	font-family: "黑体";
+	font-weight: normal;
+	width: 960px;
+	margin: 0px;
+}
+a:link { 
+	text-decoration: none;
+	color:#C96;
+}
+a:active {
+	text-decoration:blink
+}
+a:hover {
+	text-decoration:underline;
+	color: red
+}
+a:visited {
+	text-decoration: none;
+	color: green
+}
+.bottom {
+	width: 960px;
+	margin: 0px;
+	text-align: center;
+	font-family: "黑体";
+	font-size: 16px;
+	font-weight: bold;
+	font-style: normal;
+}
+.center1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
+}
+-->
+</style>
+<script language="javascript">
+	var temp;
+	var temp2;
+	function GetXmlHttpObject(){			//建立对象
+  		var xmlHttp=null;
+  		try{
+    		// Firefox, Opera 8.0+, Safari
+    		xmlHttp=new XMLHttpRequest();}
+  		catch (e){
+    	// Internet Explorer
+    		try{
+      			xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");}
+    		catch (e){
+      			xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");}}
+  		return xmlHttp;
+	}
+	
+	function stateChanged(){ 				//状态
+  		if (xmlHttp.readyState==4){ 
+  			temp2 = xmlHttp.responseText;}
+	}
+	
+	function build(BuildName){
+		temp = BuildName;
+		
+		xmlHttp=GetXmlHttpObject();
+		if (xmlHttp==null){
+    		alert ("您的浏览器不支持AJAX！");
+    	return;}
+		
+		var url="view.asp";
+		url=url+"?build="+BuildName+"&room=";
+		xmlHttp.onreadystatechange=stateChanged;
+		xmlHttp.open("GET",url,false);
+		xmlHttp.send(null);
+		
+		var str = new Array();
+		str = temp2.split(",");
+		var o = document.getElementById("classroom");
+		o.options.length=0;
+		for(var i=0; i <= str.length ; i++){
+		var oOption = document.createElement("option");  
+     	oOption.value=str[i];
+     	oOption.text=str[i];
+		o.options.add(oOption);}
+	
+	}
+	function classroom(RoomName){
+		var txt = temp + "_" + RoomName;
+		xmlHttp=GetXmlHttpObject();
+		if (xmlHttp==null){
+    		alert ("您的浏览器不支持AJAX！");
+    	return;}
+		
+		var url="view.asp";
+		url=url+"?build="+temp+"&room="+RoomName;
+		xmlHttp.onreadystatechange=stateChanged;
+		xmlHttp.open("GET",url,false);
+		xmlHttp.send(null);
+		document.getElementById("class").innerHTML = temp2;
+	}
+</script>
+</head>
+<body><center>
+<div class="top">鲁东大学自习室查询平台数据简易查看器(抢先版)</div>
+<div class="clear">&nbsp;</div>
+<div class="content">
+    <label>
+      教学楼：<select id="building" onchange="build(this.value)">
+      			<option value="-1">未选择</option>
+<option value="NB4">北4</option>
+                <option value="NB5">北5</option>
+                <option value="NB8">北8</option>
+                <option value="NB9">北9</option>
+                <option value="SB5">南5</option>
+                <option value="WB4">西4</option>
+      		</select>
+    </label>&nbsp;&nbsp;&nbsp;
+    <label> 教室：
+<select id="classroom" onchange="classroom(this.value)">
+    			<option value="-1">未选择</option>
+    </select>
+    </label>
+    &nbsp;&nbsp;&nbsp;数据来源：教务处&nbsp;&nbsp;&nbsp;数据时效：09-10-2学期课程信息
+    <div class="clear">&nbsp;</div>
+    <div id="class">&nbsp;
+    </div>
+</div>
+<div class="clear">&nbsp;</div>
+<div class="bottom">程序制作：<a href="http://www.renren.com/profile.do?id=249896109">ETY001</a> 版权所有：<a href="http://www.tw.ldu.edu.cn/st/xsh/new">鲁大学生网</a></div>
+</center>
+</body>
+</html>
+<script src="http://s16.cnzz.com/stat.php?id=2378709&web_id=2378709&show=pic" language="JavaScript"></script>
